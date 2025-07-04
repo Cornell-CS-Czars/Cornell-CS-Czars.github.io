@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: czarships
+permalink: /czarships/
+description: Current departmental czarships
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [current, lapsed]
 horizontal: false
 ---
 
