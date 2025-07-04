@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programming contest czar
-description: 
+description:
 img: assets/img/7.jpg
 importance: 7
 category: current
@@ -15,17 +15,19 @@ Additionally, the Programming Contest Czar coaches the ACM Contest teams and sub
 See more at [http://www.cs.cornell.edu/acm/](http://www.cs.cornell.edu/acm/).
 
 **Current czars:**
-* Stephanie Ma
+
+- Stephanie Ma
 
 **Past czars:**
-* Haobin Ni
-* Daniel Fleischman
-* Jiaqi Zhai
-* Dustin Tseng
-* Lars Backstrom
-* Mark Sandler
-* Ara Hayrapetyan
-* Hubie Chen
-* Martin Pal
-* David Kempe
-* Adam Florence
+
+- Haobin Ni
+- Daniel Fleischman
+- Jiaqi Zhai
+- Dustin Tseng
+- Lars Backstrom
+- Mark Sandler
+- Ara Hayrapetyan
+- Hubie Chen
+- Martin Pal
+- David Kempe
+- Adam Florence

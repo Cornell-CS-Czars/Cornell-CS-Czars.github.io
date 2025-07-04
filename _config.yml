@@ -4,12 +4,12 @@
 
 title: Cornell CS Czars # the website title (if blank, full name will be used instead)
 first_name: Cornell CS Czars
-middle_name: 
-last_name: 
-contact_note: 
+middle_name:
+last_name:
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website of the Cornell CS Czars.
-footer_text: 
+footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PLDG czar
-description: 
+description:
 img: assets/img/6.jpg
 importance: 6
 category: current
@@ -11,14 +11,16 @@ related_publications: false
 Find speakers, organize food, and make sure the room gets cleaned up after the seminar
 
 **Current czars:**
-* Yulun Yao
-* Kei Imada
+
+- Yulun Yao
+- Kei Imada
 
 **Past czars:**
-* Jialiu Bao
-* Mark Moeller
-* Eric Campbell
-* Molly Feldman
-* Matthew Milano
-* Andrew Hirsch
-* Owen Arden
+
+- Jialiu Bao
+- Mark Moeller
+- Eric Campbell
+- Molly Feldman
+- Matthew Milano
+- Andrew Hirsch
+- Owen Arden

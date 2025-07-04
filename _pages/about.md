@@ -5,10 +5,10 @@ permalink: /
 subtitle: #<img class="only-light" src="assets/img/prof_pic_color.png">
 
 profile:
-  align: 
+  align:
   image: CS_block.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
