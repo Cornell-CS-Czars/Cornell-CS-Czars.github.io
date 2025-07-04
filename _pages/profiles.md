@@ -14,12 +14,12 @@ profiles:
     content: nomi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><a href="https://nbingo.github.io">Website</a></p>
+      <p>(he/him)</p>
 
   - align: left
     image: rebecca.jpg
     content: rebecca.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><a href="https://rmatouschekh.github.io">Website</a></p>
+      <p>(she/her)</p>
 ---
