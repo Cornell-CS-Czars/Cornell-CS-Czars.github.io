@@ -70,6 +70,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
+            },},{id: "projects-lgbtea-czar",
+          title: 'LGBTea czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lgbtea/";
             },},{id: "projects-mentoring-czar",
           title: 'Mentoring czar',
           description: "",
