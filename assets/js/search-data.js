@@ -65,11 +65,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/czar/";
+            },},{id: "projects-espresso-czar",
+          title: 'Espresso czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/espresso/";
             },},{id: "projects-fellowships-czar",
           title: 'Fellowships czar',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
+            },},{id: "projects-grad-seminar-czar",
+          title: 'Grad seminar czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/grad_seminar/";
             },},{id: "projects-lgbtea-czar",
           title: 'LGBTea czar',
           description: "",
@@ -100,11 +110,31 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/room_reservation/";
+            },},{id: "projects-soccer-czar",
+          title: 'Soccer czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/soccer/";
             },},{id: "projects-social-hour-czar",
           title: 'Social hour czar',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/social_hour/";
+            },},{id: "projects-tgif-czar",
+          title: 'TGIF czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tgif/";
+            },},{id: "projects-theory-tea-czar",
+          title: 'Theory tea czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/theory_tea/";
+            },},{id: "projects-visit-day-czar",
+          title: 'Visit day czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/visit_day/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
