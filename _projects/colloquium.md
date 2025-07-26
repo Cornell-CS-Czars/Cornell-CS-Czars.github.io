@@ -2,7 +2,7 @@
 layout: page
 title: Colloquium czar
 description:
-img: assets/img/3.jpg
+img: assets/img/colloquium.jpg
 importance: 3
 category: current
 related_publications: false

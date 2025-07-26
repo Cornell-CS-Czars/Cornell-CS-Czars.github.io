@@ -2,7 +2,7 @@
 layout: page
 title: TGIF czar
 description:
-img: assets/img/1.jpg
+img: assets/img/tgif.png
 importance: 14
 category: current
 related_publications: false

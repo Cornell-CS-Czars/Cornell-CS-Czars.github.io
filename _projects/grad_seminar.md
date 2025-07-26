@@ -2,7 +2,7 @@
 layout: page
 title: Grad seminar czar
 description:
-img: assets/img/1.jpg
+img: assets/img/grad_seminar.png
 importance: 13
 category: current
 related_publications: false

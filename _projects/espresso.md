@@ -2,7 +2,7 @@
 layout: page
 title: Espresso czar
 description:
-img: assets/img/1.jpg
+img: assets/img/espresso.png
 importance: 16
 category: current
 related_publications: false

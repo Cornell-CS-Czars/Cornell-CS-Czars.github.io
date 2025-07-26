@@ -2,7 +2,7 @@
 layout: page
 title: PLDG czar
 description:
-img: assets/img/6.jpg
+img: assets/img/pldg.png
 importance: 6
 category: current
 related_publications: false

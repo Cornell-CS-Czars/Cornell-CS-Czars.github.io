@@ -2,7 +2,7 @@
 layout: page
 title: Programming contest czar
 description:
-img: assets/img/7.jpg
+img: assets/img/programming_contest.png
 importance: 7
 category: current
 related_publications: false

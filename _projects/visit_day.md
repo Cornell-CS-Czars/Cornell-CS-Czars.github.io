@@ -2,7 +2,7 @@
 layout: page
 title: Visit day czar
 description:
-img: assets/img/1.jpg
+img: assets/img/visit_day.jpg
 importance: 15
 category: current
 related_publications: false

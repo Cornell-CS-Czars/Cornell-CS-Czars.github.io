@@ -2,7 +2,7 @@
 layout: page
 title: Soccer czar
 description:
-img: assets/img/12.jpg
+img: assets/img/soccer.png
 importance: 12
 category: current
 related_publications: false

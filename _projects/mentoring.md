@@ -2,7 +2,7 @@
 layout: page
 title: Mentoring czar
 description:
-img: assets/img/4.jpg
+img: assets/img/mentoring.png
 importance: 4
 category: current
 related_publications: false

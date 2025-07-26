@@ -2,7 +2,7 @@
 layout: page
 title: Czar czar
 description:
-img: assets/img/12.jpg
+img: assets/img/czar.png
 importance: 1
 category: current
 related_publications: false

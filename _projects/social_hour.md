@@ -2,7 +2,7 @@
 layout: page
 title: Social hour czar
 description:
-img: assets/img/10.jpg
+img: assets/img/social_hour.png
 importance: 10
 category: current
 related_publications: false

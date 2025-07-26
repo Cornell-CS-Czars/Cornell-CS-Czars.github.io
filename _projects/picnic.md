@@ -2,7 +2,7 @@
 layout: page
 title: Picnic czar
 description:
-img: assets/img/5.jpg
+img: assets/img/picnic.png
 importance: 5
 category: current
 related_publications: false

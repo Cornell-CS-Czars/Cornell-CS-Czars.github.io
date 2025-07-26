@@ -2,7 +2,7 @@
 layout: page
 title: LGBTea czar
 description:
-img: assets/img/11.jpg
+img: assets/img/lgbtea.jpg
 importance: 11
 category: current
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: Quotes czar
 description:
-img: assets/img/8.jpg
+img: assets/img/quotes.png
 importance: 8
 category: current
 related_publications: false

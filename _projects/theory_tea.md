@@ -2,7 +2,7 @@
 layout: page
 title: Theory tea czar
 description:
-img: assets/img/1.jpg
+img: assets/img/theory_tea.jpg
 importance: 17
 category: current
 related_publications: false

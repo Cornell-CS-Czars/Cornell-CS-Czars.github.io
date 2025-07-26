@@ -2,7 +2,7 @@
 layout: page
 title: Fellowships czar
 description:
-img: assets/img/1.jpg
+img: assets/img/fellowship.png
 importance: 2
 category: current
 related_publications: false
