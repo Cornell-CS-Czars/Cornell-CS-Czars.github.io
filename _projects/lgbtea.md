@@ -13,8 +13,6 @@ They're in charge of bringing tea/snacks and reserving the room.
 
 **Current czars:**
 
--
+- Joyce (Jay) Zhou
 
 **Past czars:**
-
--
