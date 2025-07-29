@@ -19,7 +19,28 @@ profiles:
   - align: left
     image: rebecca.jpg
     content: rebecca.md
+    image_circular: falsae # crops the image to make it circular
+    more_info: >
+      <p>(she/her)</p>
+
+  - align: right
+    image: kav64.jpg
+    content: kav64.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>(she/her)</p>
+
+  - align: left
+    image: dd687.jpg
+    content: dd687.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
+    image: sc2937.jpg
+    content: sc2937.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
 ---
