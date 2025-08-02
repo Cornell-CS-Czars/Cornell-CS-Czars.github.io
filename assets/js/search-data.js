@@ -50,7 +50,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-pldg-czar",
+            },},{id: "news-the-new-cornell-cs-czar-website-is-mostly-up-and-running",
+          title: 'The new Cornell CS czar website is (mostly) up and running!',
+          description: "",
+          section: "News",},{id: "projects-pldg-czar",
           title: 'PLDG czar',
           description: "",
           section: "Projects",handler: () => {
@@ -80,6 +83,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
+            },},{id: "projects-foosball-czar",
+          title: 'Foosball czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foosball/";
+            },},{id: "projects-frisbee-czar",
+          title: 'Frisbee czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/frisbee/";
             },},{id: "projects-gates-345-seat-czar",
           title: 'Gates 345 seat czar',
           description: "",
@@ -90,6 +103,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/grad_seminar/";
+            },},{id: "projects-hockey-czar",
+          title: 'Hockey czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hockey/";
             },},{id: "projects-lgbtea-czar",
           title: 'LGBTea czar',
           description: "",
@@ -140,6 +158,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/theory_tea/";
+            },},{id: "projects-t-shirt-czar",
+          title: 'T-Shirt czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tshirt/";
             },},{id: "projects-visit-day-czar",
           title: 'Visit day czar',
           description: "",
