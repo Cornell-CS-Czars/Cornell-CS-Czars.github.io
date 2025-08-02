@@ -4,20 +4,20 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-czarships",
-          title: "czarships",
+          title: "Czarships",
           description: "Current departmental czarships",
           section: "Navigation",
           handler: () => {
             window.location.href = "/czarships/";
           },
         },{id: "nav-czars",
-          title: "czars",
+          title: "Czars",
           description: "Current departmental czars",
           section: "Navigation",
           handler: () => {
@@ -55,6 +55,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PLDG/";
+            },},{id: "projects-board-game-czar",
+          title: 'Board game czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/board_games/";
             },},{id: "projects-colloquium-czar",
           title: 'Colloquium czar',
           description: "",
@@ -75,6 +80,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fellowships/";
+            },},{id: "projects-gates-345-seat-czar",
+          title: 'Gates 345 seat czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gates345_seat/";
             },},{id: "projects-grad-seminar-czar",
           title: 'Grad seminar czar',
           description: "",
