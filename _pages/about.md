@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: #<img class="only-light" src="assets/img/prof_pic_color.png">
 

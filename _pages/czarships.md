@@ -1,6 +1,6 @@
 ---
 layout: page
-title: czarships
+title: Czarships
 permalink: /czarships/
 description: Current departmental czarships
 nav: true
