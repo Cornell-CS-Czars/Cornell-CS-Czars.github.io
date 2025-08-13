@@ -38,11 +38,11 @@ If there is a czarship that you think should be created (particularly if you wou
 If you are willing to join any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
 
 - [Social hour czar](../projects/social_hour)
-- [Room reservationczar](../projects/room_reservation)
+- [Room reservation czar](../projects/room_reservation)
 - [Espresso czar](../projects/espresso)
 
 ### The following czarships are currently looking for successors
 
 If you are willing to take over any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
 
-- None right now!
+- [Picnic czar](../projects/picnic)
