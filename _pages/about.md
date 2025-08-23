@@ -33,16 +33,15 @@ There is no requirement that students act as czars, but the work that czars do h
 
 If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently [Rebecca Hicke](mailto:rmh327@cornell.edu) and [Noam Ringach](mailto:nr353@cornell.edu), and let them know.
 
-### The following czarships are currently looking for apprentices/new members
-
-If you are willing to join any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
-
-- [Social hour czar](../projects/social_hour)
-- [Room reservation czar](../projects/room_reservation)
-- [Espresso czar](../projects/espresso)
-
-### The following czarships are currently looking for successors
+### The following czarships are currently looking for new leadership
 
 If you are willing to take over any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
 
 - [Picnic czar](../projects/picnic)
+
+### The following czarships are currently looking for new members
+
+If you are willing to join any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
+
+- [Room reservation czar](../projects/room_reservation)
+- [Espresso czar](../projects/espresso)
