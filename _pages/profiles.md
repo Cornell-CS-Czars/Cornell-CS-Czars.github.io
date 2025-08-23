@@ -92,4 +92,18 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>(she/her)</p>
+
+  - align: right
+    image: jgf92.jpg
+    content: jgf92.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
+    image: standard_profile_pic.png
+    content: gs724.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
 ---
