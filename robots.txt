@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Cornell-CS-Czars.github.io/sitemap.xml
+Sitemap: https://czars.cs.cornell.edu/sitemap.xml
