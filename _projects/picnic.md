@@ -12,10 +12,11 @@ The Picnic Czar organizes the spring and fall department picnics for Ph.D. stude
 
 **Current czars:**
 
-- Susan Garry
+- _OPEN_
 
 **Past czars:**
 
+- Susan Garry
 - Daniel Brous
 - Josh Turcotti
 - Priya Srikumar
