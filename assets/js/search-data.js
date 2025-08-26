@@ -50,8 +50,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-new-cornell-cs-czar-website-is-mostly-up-and-running",
-          title: 'The new Cornell CS czar website is (mostly) up and running!',
+            },},{id: "news-the-new-cornell-cis-czar-website-is-mostly-up-and-running",
+          title: 'The new Cornell CIS czar website is (mostly) up and running!',
           description: "",
           section: "News",},{id: "projects-pldg-czar",
           title: 'PLDG czar',
