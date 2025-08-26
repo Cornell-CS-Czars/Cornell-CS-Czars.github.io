@@ -1,4 +1,4 @@
-# [Noam Ringach](https://nbingo.github.io)
+# [Noam (Nomi) Ringach](https://nbingo.github.io)
 
 ### [Czar czar](../projects/czar/)
 

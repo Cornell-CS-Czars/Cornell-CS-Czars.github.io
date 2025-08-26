@@ -10,6 +10,8 @@ related_publications: false
 
 The Mentoring Czar's goal to make the mentoring program more effective. New Ph.D. students are assigned a mentor from current students; the mentoring czar organizes discussions and fora for mentors and/or mentees to discuss mentoring issues, and advice for new students.
 
+More information can be found on the [CS wiki page for PhD mentors](https://wiki.cs.cornell.edu/index.php?title=PhD_Mentor).
+
 **Current czars:**
 
 - Ayaka Yorihiro

@@ -33,6 +33,8 @@ There is no requirement that students act as czars, but the work that czars do h
 
 If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently [Rebecca Hicke](mailto:rmh327@cornell.edu) and [Noam Ringach](mailto:nr353@cornell.edu), and let them know.
 
+Lastly, while we try our best to keep the information on this website up to date, please email us with any errors or out-of-date information if you see it! We also welcome you to contribute, if you desire, by creating a pull request on [our repository](https://github.com/Cornell-CS-Czars/Cornell-CS-Czars.github.io).
+
 ### The following czarships are currently looking for new leadership
 
 If you are willing to take over any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
