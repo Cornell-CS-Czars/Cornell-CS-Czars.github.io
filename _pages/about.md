@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-![Only light](assets/img/CS_block_color.png){: .only-light style="width: 30%;"}
-![Only dark](assets/img/CS_block_white.png){: .only-dark style="width: 30%;"}
+![Only light](assets/img/CS_block_color.png){: .only-light style="width: 60%;"}
+![Only dark](assets/img/CS_block_white.png){: .only-dark style="width: 60%;"}
 
 As you might guess, these are not the department's personal Russian emperors. Rather, a "czar" is a member of the department who is providing a service to the department as a volunteer.
 

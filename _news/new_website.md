@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The new Cornell CS czar website is (mostly) up and running!
+The new Cornell CIS czar website is (mostly) up and running!
