@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-czars",
           title: "Czars",
-          description: "Current departmental czars",
+          description: "Current departmental czars, organized alphabetically by last name.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/czars/";
