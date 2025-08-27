@@ -31,7 +31,7 @@ As you might guess, these are not the department's personal Russian emperors. Ra
 
 There is no requirement that students act as czars, but the work that czars do helps the department run smoothly and foster our tight-knit community. Everybody benefits in some way from the czar system, so you are urged to take on czarships occasionally to carry your share of the burden of department work.
 
-If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently [Rebecca Hicke](mailto:rmh327@cornell.edu) and [Noam Ringach](mailto:nr353@cornell.edu), and let them know.
+If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently [Rebecca Hicke](mailto:rmh327@cornell.edu) and [Noam Ringach](mailto:nr353@cornell.edu)), and let them know.
 
 Lastly, while we try our best to keep the information on this website up to date, please email us with any errors or out-of-date information if you see it! We also welcome you to contribute, if you desire, by creating a pull request on [our repository](https://github.com/Cornell-CS-Czars/Cornell-CS-Czars.github.io).
 
