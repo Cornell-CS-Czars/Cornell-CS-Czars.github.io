@@ -11,6 +11,13 @@ profiles:
   # and create one content file for each profile inside _pages/
 
   - align: right
+    image: mlb494.jpg
+    content: mlb494.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
     image: sc2937.jpg
     content: sc2937.md
     image_circular: false # crops the image to make it circular
@@ -37,6 +44,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>(he/him)</p>
+
+  - align: right
+    image: standard_profile_pic.jpg
+    content: kg384.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(she/her)</p>
 
   - align: right
     image: mg962.jpg
@@ -107,4 +121,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>(they/them)</p>
+
+  - align: right
+    image: ay436.png
+    content: ay436.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(she/her)</p>
 ---

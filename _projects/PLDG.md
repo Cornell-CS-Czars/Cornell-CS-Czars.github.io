@@ -12,11 +12,13 @@ Find speakers, organize food, and make sure the room gets cleaned up after the s
 
 **Current czars:**
 
-- Yulun Yao
-- Kei Imada
+- Mark Barbone
+- Karuna Grewal
 
 **Past czars:**
 
+- Yulun Yao
+- Kei Imada
 - Jialiu Bao
 - Mark Moeller
 - Eric Campbell
