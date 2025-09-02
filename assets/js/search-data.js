@@ -123,6 +123,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/picnic/";
+            },},{id: "projects-pl-website-czar",
+          title: 'PL website czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pl_website/";
             },},{id: "projects-programming-contest-czar",
           title: 'Programming contest czar',
           description: "",
@@ -163,6 +168,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tshirt/";
+            },},{id: "projects-video-game-czar",
+          title: 'Video game czar',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/video_games/";
             },},{id: "projects-visit-day-czar",
           title: 'Visit day czar',
           description: "",
