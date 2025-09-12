@@ -25,6 +25,13 @@ profiles:
       <p>(he/him)</p>
 
   - align: right
+    image: ac2538.jpg
+    content: ac2538.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
     image: standard_profile_pic.jpg
     content: ojd5.md
     image_circular: false # crops the image to make it circular
@@ -102,6 +109,13 @@ profiles:
       <p>(she/her)</p>
 
   - align: right
+    image: zjs32.jpg
+    content: zjs32.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
     image: kav64.jpg
     content: kav64.md
     image_circular: false # crops the image to make it circular
@@ -116,16 +130,30 @@ profiles:
       <p>(he/him)</p>
 
   - align: right
-    image: standard_profile_pic.jpg
-    content: jz549.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>(they/them)</p>
-
-  - align: right
     image: ay436.png
     content: ay436.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>(she/her)</p>
+
+  - align: right
+    image: yy2282.jpeg
+    content: yy2282.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(she/her)</p>
+
+  - align: right
+    image: yz2946.jpeg
+    content: yz2946.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(she/her)</p>
+
+  - align: right
+    image: standard_profile_pic.jpg
+    content: jz549.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(they/them)</p>
 ---

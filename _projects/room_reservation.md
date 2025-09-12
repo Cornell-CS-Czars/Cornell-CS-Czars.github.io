@@ -18,6 +18,9 @@ Room reservation requests should be put on the '\#room reservations' slack chann
 - Mohit Gurumukhani
 - Goktug Saatcioglu
 - Shubham Chaudhary
+- Zach Susag
+- Yunya Zhao
+- Aditya Chetan
 
 **Past czars:**
 

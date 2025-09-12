@@ -12,7 +12,9 @@ The Picnic Czar organizes the spring and fall department picnics for Ph.D. stude
 
 **Current czars:**
 
-- _OPEN_
+- Anshuman Mohan
+- Elaine Yao
+- Mariia Soroka
 
 **Past czars:**
 

@@ -39,7 +39,7 @@ Lastly, while we try our best to keep the information on this website up to date
 
 If you are willing to take over any of these czarships, please send [us](mailto:nr353@cornell.edu, rmh327@cornell.edu) and the appropriate czar an email.
 
-- [Picnic czar](../projects/picnic)
+- _NONE_
 
 ### The following czarships are currently looking for new members
 
