@@ -12,7 +12,7 @@ The Hockey Czars organize ice times for the department's frequent ice hockey scr
 
 The Hockey Czars are also responsible for the maintenance and distribution of the hockey equipment which is purchased by the "hockey fund" and lent to people who would like to play ice hockey with the department and do not have equipment.
 
-[www.cs.cornell.edu/Info/Activities/hockey](www.cs.cornell.edu/Info/Activities/hockey)
+[www.cs.cornell.edu/Info/Activities/hockey](https://www.cs.cornell.edu/Info/Activities/hockey)
 
 **Current czars:**
 
