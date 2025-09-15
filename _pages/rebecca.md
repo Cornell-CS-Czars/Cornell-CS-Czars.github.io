@@ -2,5 +2,7 @@
 
 ### [Czar czar](../projects/czar/)
 
-Rebecca here! I love my cat (that roommate is trying to steal, but I won't let
-him), reading books, analyzing books with LLMs, and ballroom dance!
+Hi y'all! I'm a PhD student working on computational humanities / NLP research.
+I love hanging out with my cats (who my roommate is definitely trying to steal),
+reading books + talking about them, and sending out Slack messages (the true
+czar czar requirement).
