@@ -23,6 +23,10 @@ Website: [Colloquium Czar wiki page](http://wiki.cs.cornell.edu/index.php?title=
 
 **Current czars:**
 
+- _OPEN_
+
+**Past czars:**
+
 - Yimeng Min
 - Spencer Peters
 - Tegan Wilson
@@ -33,9 +37,6 @@ Website: [Colloquium Czar wiki page](http://wiki.cs.cornell.edu/index.php?title=
 - Kate Donahue
 - A.F. Cooper
 - Drew Zagieboylo
-
-**Past czars:**
-
 - Alexa VanHattum
 - Wil Thomason
 - Yunhao Zhang
