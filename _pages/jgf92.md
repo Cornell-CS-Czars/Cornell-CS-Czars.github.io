@@ -1,4 +1,4 @@
-# [Giannis Fikioris](giannisfikioris.org)
+# [Giannis Fikioris](https://giannisfikioris.org)
 
 ### [Theory tea czar](../projects/theory_tea)
 
