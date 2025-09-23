@@ -15,6 +15,8 @@ Useful links:
 - [Fellowship archive](https://cornell.app.box.com/s/jkzzaofet0pg4p18refzqtq1xumjckba)
 - [Job market material archive](https://cornell.app.box.com/s/l6b92lziwdgnxlq487pqydvbzq5uynps)
 - [Statement of purpose archive](https://cornell.app.box.com/s/zihsbyqoe2huwwlvj3wch46re0633xs9)
+- [Internship archive](https://docs.google.com/spreadsheets/d/1H6yqNWERHSPnh2Zo8A9ThEGOhcmHXp4WnRqWI_woZuo)
+- [Form to submit internship stipends](https://docs.google.com/forms/d/e/1FAIpQLSdZBB8M4YPvxh5vRkxBsFiHl09jffOZBjK3mhPIF_BdiffSIw/viewform)
 
 **Current czars:**
 
