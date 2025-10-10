@@ -81,6 +81,13 @@ profiles:
       <p>(she/her)</p>
 
   - align: right
+    image: am3327.jpg
+    content: am3327.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>(he/him)</p>
+
+  - align: right
     image: nomi.jpg
     content: nomi.md
     image_circular: false # crops the image to make it circular
